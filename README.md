@@ -1,3 +1,2 @@
 # ogjackk
-ogjacks friendsite
-ogjackk.com
+https://www.ogjackk.com
